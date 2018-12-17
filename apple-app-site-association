@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "DTUNV78FQT.com.performancehorizon.deeplink-demo",
+      "paths": ["*", "/"]
+    }
+    ]
+  }
+}
+
