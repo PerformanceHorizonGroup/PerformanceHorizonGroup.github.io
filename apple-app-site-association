@@ -2,11 +2,20 @@
   "applinks": {
     "apps": [],
     "details": [
-    {
-      "appID": "DTUNV78FQT.com.performancehorizon.deeplink-demo",
-      "paths": ["*", "/"]
-    }
+      {
+        "appID": "DTUNV78FQT.com.performancehorizon.deeplink-demo",
+        "paths": [
+          "*",
+          "/"
+        ]
+      },
+      {
+        "appID": "DTUNV78FQT.com.partnerize.advertiserdemo",
+        "paths": [
+          "*",
+          "/"
+        ]
+      }
     ]
   }
 }
-
