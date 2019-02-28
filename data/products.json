@@ -1,0 +1,315 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Raw denim tote",
+      "category": "accessories",
+      "description": "Super sturdy, raw denim tote bag with crisp white A.BCH print, front and back, which will wear uniquely over time. Fitting for daily essentials, such as a laptop, a good book, reusable coffee cup, a bottle of wine of two. We stand by it.",
+      "price": "55.00",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/1637/8509/products/170109_ABCH_11_621_15a525fa-dac1-4775-8533-6acfdeb0acbe.jpg",
+      "clickUrl": "",
+      "meta": {
+        "size": "One size",
+        "brand": "A.BCH"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Small Amaro Bag",
+      "category": "accessories",
+      "description": "Hand woven half circle bag with a wood button closure at top and woven handle. Features a jute interior pocket. Undyed and natural. Mindfully and traditionally crafted by communities in Southern Luzon, Philippines, with abaca, a species of native banana cultivated as early as 1521. Abaca is known to be very durable and salt-water repellent as well. Due to the handmade nature of Abaca's items, measurements and colour may vary slightly.",
+      "price": "89.00",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/0531/9561/products/Abaca-Small-Amaro-Bag-New-Classics-Studios-Canada-3.jpg?v=1523645604",
+      "clickUrl": "",
+      "meta": {
+        "brand": "ABACÁ",
+        "size": "One size"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Black Lady Boots",
+      "category": "accessories",
+      "brand": "SUZANNE RAE",
+      "description": "Black nappa leather square toe ankle boots with lace-up closure at side. Features a wrapped leather block heel and leather lining, sole and insole. Mindfully crafted in Italy.",
+      "price": "442.00",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/0531/9561/products/suzanne-rae-black-lady-boot-new-classics-studios-canada-6.jpg?v=1539113220",
+      "clickUrl": "",
+      "meta": {
+        "brand": "SUZANNE RAE"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Shipwrecked Knit Blanket",
+      "category": "home ware",
+      "description": "Recycled cotton knit blanket made in the USA.",
+      "price": "156.79",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/0531/9561/products/cold-picnic-shipwrecked-knit-blanket-new-classics-studios-canada-1.jpg?v=1541639057",
+      "clickUrl": "",
+      "meta": {
+        "brand": "Cold Picnic",
+        "size": "50x60"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Buri Container Set",
+      "category": "home ware",
+      "description": "A set of three small storage containers handwoven in Souther Luzon using Buri, a palm tree leaf abundant in this region. The fibers are stripped finely, sun-dried and then handwoven into baskets. Due to the handcrafted nature of Abacá's products, pattern, colour and size may vary slightly meaning that no two designs are ever exactly the same.",
+      "price": "17.49",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/0531/9561/products/Abaca-Buri-Container-Set-NEw-Classics-Studios-3.jpg?v=1527622014",
+      "clickUrl": "",
+      "meta": {
+        "brand": "ABACÁ",
+        "size": "5x4"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Field Stones Knit Blanket",
+      "category": "home ware",
+      "description": "Recycled cotton knit blanket made in the USA.",
+      "price": "156.79",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/0531/9561/products/Cold-picnic-fieldstones-blanket-green-new-classics-studios-canada-1.jpg?v=1527624372",
+      "clickUrl": "",
+      "meta": {
+        "brand": "Cold Picnic",
+        "size": "50x60"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Gardener Soap",
+      "category": "home ware",
+      "description": "This wonderful Vegan, 100% natural soap has been designed and handmade here in Yorkshire by The Printed Peanut. Fresh as a daisy with peppermint and poppy seeds to invigorate and deep clean your grubby mitts after a day in the garden. Ingredients: Sodium olivate, Sodium cocoate, Aqua, Butyrospermum parkii butter, Mentha piperita (peppermint) essential oil contains limonene, Papaver somniferum (poppy) seed. It contains no SLS, parabens or palm oil. It's not tested on animals and comes wrapped in 100% recycled paper, printed in the UK using water based, eco-friendly inks. Each bar is stamped with a lovely smiling face.",
+      "price": "5.95",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/2567/7220/products/GARDENERS-SOAP_590x.jpg?v=1512423550",
+      "clickUrl": "",
+      "meta": {
+        "brand": "The Printed peanut"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Gentle Pot",
+      "category": "home ware",
+      "description": "We first stocked Louise's wonderful pots in 2016 and we are delighted to have a selection of her latest mainline collection in stock! These pots are slip-cast in white earthenware with screen-printed decals at a specialist producer in Stoke-On-Trent.",
+      "price": "22.00",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/2567/7220/products/GENTLE_590x.jpg?v=1525881893",
+      "clickUrl": "",
+      "meta": {
+        "brand": "Louise Madzia"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Tavi Sleeveless Top",
+      "category": "fashion",
+      "description": "A luxuriously crisp handwoven cotton top. Cut for a boxy hip-length fit with a flattering cross over back. A versatile piece, you can wear it with everything from fluid tailoring to cropped organic cotton jeans. Made by Dev Tech. Dev Tech is a Fair Trade group based in Bangladesh that creates beautifully tailored pieces from hand-woven fabrics.",
+      "price": "65.00",
+      "currency_symbol": "£",
+      "imageURL": "https://www.peopletree.co.uk/productimages/women/tops/tavi-sleeveless-top-98df498d86a4.jpg",
+      "clickUrl": "",
+      "meta": {
+        "brand": "People Tree"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Nabraska Dress",
+      "category": "fashion",
+      "description": "When in doubt, wear a damn dress. This is a midi length dress with a sweetheart neckline, a side slit and tie straps. The Nebraska is slim fitting throughout with a smocked back bodice.About the brand.",
+      "price": "160.00",
+      "currency_symbol": "£",
+      "imageURL": "https://res.cloudinary.com/reformation/image/upload/q_auto/c_scale,w_auto:breakpoints_100_2560_9_20:797/v1/prod/product_images/nebraska-dress/ochre/5c732d5bc35ccd2a5e670751/original.jpg",
+      "clickUrl": "",
+      "meta": {
+        "brand": "Refromation"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Simi Dress",
+      "category": "fashion",
+      "description": "Let those legs out. This is a mini length dress with a deep v neckline, center front buttons and 3/4 sleeves. The Simi is fitted throughout the bodice with an easy fitting skirt.",
+      "price": "120.00",
+      "currency_symbol": "£",
+      "imageURL": "https://res.cloudinary.com/reformation/image/upload/q_auto/c_scale,w_auto:breakpoints_100_2560_9_20:797/v1/prod/product_images/simi-dress/white/5c732cb1c35ccd15c1670591/original.jpg",
+      "clickUrl": "",
+      "meta": {
+        "brand": "Refromation"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Women's Long Sleeve Skivvy",
+      "category": "fashion",
+      "description": "Get cosy in our Aussie-knitted, grey marle long-sleeve skivvy. Featuring a boxy cut, raw hems and a mock neck that can be worn un-tucked and raw, pushed down and slouchy or tucked under for more structure. Options! Note, the A.14 rib fabric was knitted on a tubular machine, so there may be faint lines where the tube was joined. These will eventually disappear with wear/washing and we consider them a unique feature of this style of knitting.",
+      "price": "42.00",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/1637/8509/products/A14_LS_Grey_Rib_Skivvy_front3.jpg?v=1529592828",
+      "clickUrl": "",
+      "meta": {
+        "brand": "A.BCH"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Tropicana One Piece",
+      "category": "fashion",
+      "description": "Ref Swim is back. This is a one piece swimsuit with a center front cut out and tie.",
+      "price": "89.00",
+      "currency_symbol": "£",
+      "imageURL": "https://res.cloudinary.com/reformation/image/upload/q_auto/c_scale,w_auto:breakpoints_100_1668_9_20:797/v1/prod/product_images/tropicana-one-piece/cherry/5ada40acc3170b0cf3396c7d/original.jpg",
+      "clickUrl": "",
+      "meta": {
+        "brand": "Lush"
+      }
+    },
+    {
+      "id": 14,
+      "title": "In two minds Cleanser",
+      "category": "beauty",
+      "description": "A gentle cleanser gel based formulation that cleanses thoroughly without drying the skin or stripping its natural oils.",
+      "price": "33.00",
+      "currency_symbol": "£",
+      "imageURL": "https://www.aesop.com/medias/Aesop-Skin-In-Two-Minds-Facial-Cleanser-100mL-Large-782x796px.png?context=bWFzdGVyfGltYWdlc3wzNTc1NjV8aW1hZ2UvcG5nfGltYWdlcy9oYWUvaDk5LzkwMTk3NzQ1MDA4OTQucG5nfGQ5ZTViNTQ4MjRiOTcyMjczY2U3MzljZDM1MjFjYjQ5OTExODhkMmMyNDdhNTk1MDcxYjdmZjUzOGZmNTY5YzQ",
+      "clickUrl": "",
+      "meta": {
+        "brand": "Aesop",
+        "size": "6.8fl oz"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Be mine Trio",
+      "category": "beauty",
+      "description": "A trio of classic KB favourites that every gal want in their collection. The 'Be Mine' Trio includes Coral Blush, it's like a Strawberry milkshake for your fingertips, alongside the fun but reckless Rouge and of course our super shiny top coat to seal the deal.",
+      "price": "25.00",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/0004/8073/9391/products/Be_Mine_trio_1000x1384_crop_bottom.jpg?v=1549428814",
+      "clickUrl": "",
+      "meta": {
+        "brand": "Kester"
+      }
+    },
+    {
+      "id": 16,
+      "title": "Maintain the mane",
+      "category": "beauty",
+      "description": "Keep your hair looking its finest. Oils of Evening Primrose and Macadamia seed combine in a mild moisturizing everyday formula that cleanses the hair and scalp. Antioxidants and amino acids in Banksia Flower protect, helping freshly washed hair stay healthy.",
+      "price": "18.00",
+      "currency_symbol": "£",
+      "imageURL": "https://www.originalmineral.com/wp-content/uploads/wpsc/category_images/Duo-Maintain-the-Mane.jpg",
+      "clickUrl": "",
+      "meta": {
+        "brand": "Original Mineral"
+      }
+    },
+    {
+      "id": 17,
+      "title": "Matte balancing moisturiser",
+      "category": "beauty",
+      "description": "A mattefying, non–greasy hydrating Moisturiser that leaves combination skin looking balanced, clear and beautifully radiant.",
+      "price": "47.00",
+      "currency_symbol": "£",
+      "imageURL": "https://dvohpbqa932qk.cloudfront.net/media/catalog/product/g/r/gra0068_matte_balancing_moisturiser_60ml_vessel_p_p_m.png",
+      "clickUrl": "",
+      "meta": {
+        "brand": "Grown Alchemist"
+      }
+    },
+    {
+      "id": 18,
+      "title": "Goddess perfume",
+      "category": "beauty",
+      "description": "An evocative, enigmatic oudh perfume, comprised of oudh from responsibly managed nurseries in Thailand. Smoky Caledonian sandalwood adds dark warmth to rich, resinous notes, while sensual jasmine beguiles. Damascus rose, harvested in Turkish fields at dawn, brings just a hint of floral delicacy. The result is opulent and beguiling.",
+      "price": "45.00",
+      "currency_symbol": "£",
+      "imageURL": "https://res.cloudinary.com/lush/image/upload/s--K__RjAEI--/c_fill,h_200,q_jpegmini,w_200/v1/lush_content/products/main/2019/01/web_godess_perfume_30ml_2019.jpg?itok=3y1frVqB",
+      "clickUrl": "",
+      "meta": {
+        "brand": "Lush"
+      }
+    },
+    {
+      "id": 19,
+      "title": "Jet set kit",
+      "category": "travel",
+      "description": "In this kit - An assortment of much-loved formulations to ensure impeccable upkeep across the globe. Essential as a carry-on component, or perfect for use on your journey.",
+      "price": "18.00",
+      "currency_symbol": "£",
+      "imageURL": "https://www.aesop.com/medias/Aesop-Kit-Travel-Jet-Set-Carton-large.png?context=bWFzdGVyfGltYWdlc3wxMjQyMTI1fGltYWdlL3BuZ3xpbWFnZXMvaDVkL2g2ZC84Nzk3NDM3OTE5MjYyLnBuZ3w2Mjg5NDc0ZGM4Y2IyMTkxMTk5MWYzYTg1NDYzOWFmNDJiOTM0MGRhNzlmMWIxZjMyMGY5M2E5ZGQyY2IyYWEw",
+      "clickUrl": "",
+      "meta": {
+        "brand": "",
+        "size": "6.8 fl oz"
+      }
+    },
+    {
+      "id": 20,
+      "title": "Travel Bag",
+      "category": "travel",
+      "description": "Crafted from bright handwoven textiles, this travel bag holds all of your essentials in one place! Each purchase empowers artisans working with Maya Traditions in Guatemala.",
+      "price": "22.00",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/0923/3400/products/Travel-Bag---Cabo-_The-Little-Market_6005b2a6-5ead-43b0-a682-77b6ef0b0e9a.jpg?v=1491836091",
+      "clickUrl": "",
+      "meta": {
+        "brand": "The little Market",
+        "size": "8.5\" x 10\""
+      }
+    },
+    {
+      "id": 21,
+      "title": "Canvas Toiletry Bag",
+      "category": "travel",
+      "description": "Strong and sturdy, this bag is ideal for storing a variety of utilities. Created with natural leather, brass, and canvas, this spacious bag will accommodate goods in a safe place. Every purchase empowers makers at Meyelo in Kenya.About the brand.",
+      "price": "15.00",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/0923/3400/products/Canvas-Toiletry-Bag-Natural-_The-Little-Market_6e821c78-2b25-4af0-922c-814aa9c47fd6.jpg?v=1550001058",
+      "clickUrl": "",
+      "meta": {
+        "brand": "The little market",
+        "material": "canvas, natural leather, brass",
+        "size": "11\" x 7.75\""
+      }
+    },
+    {
+      "id": 22,
+      "title": "Lost in Milan",
+      "category": "travel",
+      "description": "I think it's about time you lot got lost... in Milan that is! These awesome guides are all about finding the things which make each city unique, the sights, smells, sounds and tastes that signify 'we are here'.",
+      "price": "10.00",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/2567/7220/products/LIM_1080x.jpg?v=1515846223",
+      "clickUrl": "",
+      "meta": {
+        "brand": "LOST IN"
+      }
+    },
+    {
+      "id": 23,
+      "title": "Patagonia Black Hole duffel",
+      "category": "travel",
+      "description": "Burly polyester ripstop with highly weather-resistant TPU-film laminate and a DWR (durable water repellent) finish. Large opening to main compartment, zippered side pocket, mesh pockets in lid; stuffs into its own pocket for easy storage.",
+      "price": "145.00",
+      "currency_symbol": "£",
+      "imageURL": "https://cdn.shopify.com/s/files/1/1605/8669/products/49346_BLK_PATAGONIA_3_0e2e77da-57a6-4ff7-aa06-280264dd1247_1200x.jpg?v=1550041595",
+      "clickUrl": "",
+      "meta": {
+        "brand": "Patagonia",
+        "size": "One size"
+      }
+    }
+  ]
+}
