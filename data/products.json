@@ -45,7 +45,7 @@
     {
       "id": 4,
       "title": "Shipwrecked Knit Blanket",
-      "category": "home ware",
+      "category": "home",
       "description": "Recycled cotton knit blanket made in the USA.",
       "price": "156.79",
       "currency_symbol": "£",
@@ -59,7 +59,7 @@
     {
       "id": 5,
       "title": "Buri Container Set",
-      "category": "home ware",
+      "category": "home",
       "description": "A set of three small storage containers handwoven in Souther Luzon using Buri, a palm tree leaf abundant in this region. The fibers are stripped finely, sun-dried and then handwoven into baskets. Due to the handcrafted nature of Abacá's products, pattern, colour and size may vary slightly meaning that no two designs are ever exactly the same.",
       "price": "17.49",
       "currency_symbol": "£",
@@ -73,7 +73,7 @@
     {
       "id": 6,
       "title": "Field Stones Knit Blanket",
-      "category": "home ware",
+      "category": "home",
       "description": "Recycled cotton knit blanket made in the USA.",
       "price": "156.79",
       "currency_symbol": "£",
@@ -87,7 +87,7 @@
     {
       "id": 7,
       "title": "Gardener Soap",
-      "category": "home ware",
+      "category": "home",
       "description": "This wonderful Vegan, 100% natural soap has been designed and handmade here in Yorkshire by The Printed Peanut. Fresh as a daisy with peppermint and poppy seeds to invigorate and deep clean your grubby mitts after a day in the garden. Ingredients: Sodium olivate, Sodium cocoate, Aqua, Butyrospermum parkii butter, Mentha piperita (peppermint) essential oil contains limonene, Papaver somniferum (poppy) seed. It contains no SLS, parabens or palm oil. It's not tested on animals and comes wrapped in 100% recycled paper, printed in the UK using water based, eco-friendly inks. Each bar is stamped with a lovely smiling face.",
       "price": "5.95",
       "currency_symbol": "£",
@@ -100,7 +100,7 @@
     {
       "id": 8,
       "title": "Gentle Pot",
-      "category": "home ware",
+      "category": "home",
       "description": "We first stocked Louise's wonderful pots in 2016 and we are delighted to have a selection of her latest mainline collection in stock! These pots are slip-cast in white earthenware with screen-printed decals at a specialist producer in Stoke-On-Trent.",
       "price": "22.00",
       "currency_symbol": "£",
