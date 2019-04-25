@@ -182,7 +182,7 @@
       "price": "89.00",
       "currency_symbol": "£",
       "currency": "GBP",
-      "imageURL": "https://cdn.shopify.com/s/files/1/2525/8694/products/BEACONS_CHILI_1_2400x2400.JPG",
+      "imageURL": "https://res.cloudinary.com/reformation/image/upload/q_auto/c_scale,w_auto:breakpoints_100_1668_9_20:797/v1/prod/product_images/tropicana-one-piece/cherry/5ada40acc3170b0cf3396c7d/original.jpg",
       "clickUrl": "https://prf.hn/click/camref:1101l4QAa/destination:https://molimo.jonathan-butler.co.uk/product/13",
       "meta": {
         "brand": "Lush"
