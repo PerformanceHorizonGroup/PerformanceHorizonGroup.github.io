@@ -333,6 +333,62 @@
         "brand": "Patagonia",
         "size": "One size"
       }
+    },
+    {
+      "id": 24,
+      "title": "Appsflyer Product",
+      "category": "accessories",
+      "description": "An example Appsflyer product.",
+      "price": "99.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://molimo.jonathan-butler.co.uk/img/products/appsflyer.png",
+      "clickUrl": "https://prf.hn/click/camref:1101l7vj8/destination:https://molimo.jonathan-butler.co.uk/product/24",
+      "meta": {
+        "brand": "Appsflyer"
+      }
+    },
+    {
+      "id": 25,
+      "title": "Branch Product",
+      "category": "accessories",
+      "description": "An example Branch product.",
+      "price": "99.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://molimo.jonathan-butler.co.uk/img/products/branch.png",
+      "clickUrl": "https://prf.hn/click/camref:1101l7vj9/destination:https://molimo.jonathan-butler.co.uk/product/25",
+      "meta": {
+        "brand": "Branch"
+      }
+    },
+    {
+      "id": 26,
+      "title": "Adjust Product",
+      "category": "accessories",
+      "description": "An example Adjust product.",
+      "price": "99.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://molimo.jonathan-butler.co.uk/img/products/adjust.png",
+      "clickUrl": "https://prf.hn/click/camref:1100l7w4U/destination:https://molimo.jonathan-butler.co.uk/product/26",
+      "meta": {
+        "brand": "Adjust"
+      }
+    },
+    {
+      "id": 27,
+      "title": "Kochava Product",
+      "category": "accessories",
+      "description": "An example Kochava product.",
+      "price": "99.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://molimo.jonathan-butler.co.uk/img/products/kochava.png",
+      "clickUrl": "https://prf.hn/click/camref:1100l7w4W/destination:https://molimo.jonathan-butler.co.uk/product/27",
+      "meta": {
+        "brand": "Kochava"
+      }
     }
   ]
 }
