@@ -389,6 +389,18 @@
       "meta": {
         "brand": "Kochava"
       }
+    },
+    {
+      "id": 28,
+      "title": "Mobile - No Subdomain",
+      "category": "accessories",
+      "description": "An example mobile product without subdomain.",
+      "price": "99.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://molimo.partnerize.com/img/products/kochava.png",
+      "clickUrl": "https://prf.hn/click/camref:1100l7w4W/destination:https://molimo.partnerize.com/product/28",
+      "meta": {}
     }
   ]
 }
