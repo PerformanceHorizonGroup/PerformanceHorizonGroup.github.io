@@ -392,14 +392,14 @@
     },
     {
       "id": 28,
-      "title": "Hotels - Test Link",
+      "title": "Hotels - Deals",
       "category": "accessories",
-      "description": "An example Hotels.com link",
+      "description": "An example deals Hotels.com link",
       "price": "99.00",
       "currency_symbol": "£",
       "currency": "GBP",
       "imageURL": "https://www.asiamiles.com/content/dam/am-content/brand-v2/travel-pillar/logo-image/Hotels.com/hotels_logo_31012018.png",
-      "clickUrl": "https://prf.hn/click/camref:1011l3p",
+      "clickUrl": "https://hotels.prf.hn/click/camref:1011l3p/destination:https://uk.hotels.com/hotel-deals/",
       "meta": {}
     },
     {
