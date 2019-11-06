@@ -413,6 +413,18 @@
       "imageURL": "https://cdn-images.farfetch-contents.com/14/60/33/95/14603395_22477447_1000.jpg",
       "clickUrl": "https://prf.hn/click/camref:1101lIJi/destination:https://www.farfetch.com/uk/shopping/men/stone-island-paintball-camouflage-parka-item-14603395.aspx",
       "meta": {}
+    },
+    {
+      "id": 30,
+      "title": "Example HA product ",
+      "category": "fashion",
+      "description": "HomeAway",
+      "price": "1095.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://www.expediagroup.com/wp-content/uploads/2015/12/logo-homeaway.png",
+      "clickUrl": "https://molimo.prf.hn/click/camref:1101l4QAa/[p_id:1101l58887]",
+      "meta": {}
     }
   ]
 }
