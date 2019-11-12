@@ -425,6 +425,30 @@
       "imageURL": "https://www.expediagroup.com/wp-content/uploads/2015/12/logo-homeaway.png",
       "clickUrl": "https://molimo.prf.hn/click/camref:1101l4QAa/[p_id:1101l58887]",
       "meta": {}
+    },
+    {
+      "id": 31,
+      "title": "Shortlink test link",
+      "category": "accessories",
+      "description": "Shortlink test",
+      "price": "10.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://cdn.searchenginejournal.com/wp-content/uploads/2018/02/link-quality-760x400.png",
+      "clickUrl": "https://molimo.prf.hn/l/6kzmGbr",
+      "meta": {}
+    },
+    {
+      "id": 32,
+      "title": "Adref test link",
+      "category": "accessories",
+      "description": "Adref test",
+      "price": "10.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://cdn.searchenginejournal.com/wp-content/uploads/2018/02/link-quality-760x400.png",
+      "clickUrl": "https://molimo.prf.hn/click/camref:1101l4QAa/adref:adref-test",
+      "meta": {}
     }
   ]
 }
