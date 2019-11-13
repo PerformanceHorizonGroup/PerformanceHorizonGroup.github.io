@@ -428,26 +428,14 @@
     },
     {
       "id": 31,
-      "title": "Shortlink test link",
+      "title": "Adblock link test",
       "category": "accessories",
-      "description": "Shortlink test",
+      "description": "<p>Standard click<br><a href=\"https://prf.hn/click/camref:1101l4QAa\">https://prf.hn/click/camref:1101l4QAa</a></p><p>Standard subdomain click<br><a href=\"https://molimo.prf.hn/click/camref:1101l4QAa\">https://molimo.prf.hn/click/camref:1101l4QAa</a></p><p>Standard adref click<br><a href=\"https://prf.hn/click/camref:1101l4QAa/adref:test_adref\">https://prf.hn/click/camref:1101l4QAa/adref:test_adref</a></p><p>Short link<br><a href=\"https://prf.hn/l/6PQR98K\">https://prf.hn/l/6PQR98K</a></p><p>Subdomain short link<br><a href=\"https://molimo.prf.hn/l/6PQR98K\">https://molimo.prf.hn/l/6PQR98K</a></p><p>Short link w/ adref<br><a href=\"https://prf.hn/l/K3OmAJK\">https://prf.hn/l/K3OmAJK</a></p><p>Subdomain short link w/ adref<br><a href=\"https://molimo.prf.hn/l/K3OmAJK\">https://molimo.prf.hn/l/K3OmAJK</a></p>",
       "price": "10.00",
       "currency_symbol": "£",
       "currency": "GBP",
       "imageURL": "https://cdn.searchenginejournal.com/wp-content/uploads/2018/02/link-quality-760x400.png",
       "clickUrl": "https://molimo.prf.hn/l/6kzmGbr",
-      "meta": {}
-    },
-    {
-      "id": 32,
-      "title": "Adref test link",
-      "category": "accessories",
-      "description": "Adref test",
-      "price": "10.00",
-      "currency_symbol": "£",
-      "currency": "GBP",
-      "imageURL": "https://cdn.searchenginejournal.com/wp-content/uploads/2018/02/link-quality-760x400.png",
-      "clickUrl": "https://molimo.prf.hn/click/camref:1101l4QAa/adref:adref-test",
       "meta": {}
     }
   ]
