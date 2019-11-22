@@ -463,6 +463,20 @@
       "meta": {
         "brand":"Off-white"
       }
+    },
+    {
+      "id": 34,
+      "title": "Button Product",
+      "category": "accessories",
+      "description": "An example Button product.",
+      "price": "99.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/uwtnzh3shfme8ug1c3aq",
+      "clickUrl": "https://prf.hn/click/camref:1101l4QAa/destination:https://molimo.partnerize.com/product/34",
+      "meta": {
+        "brand": "Button"
+      }
     }
   ]
 }
