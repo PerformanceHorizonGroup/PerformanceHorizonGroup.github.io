@@ -454,7 +454,21 @@
     },
     {
       "id": 34,
-      "title": "Button Product",
+      "title": "Button Product - PZ",
+      "category": "accessories",
+      "description": "An example PZ linked Button product.",
+      "price": "99.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/uwtnzh3shfme8ug1c3aq",
+      "clickUrl": "https://molimo.partnerize.com/product/19?btn_ref=org-5251b47cf89dbe53",
+      "meta": {
+        "brand": "Button"
+      }
+    },
+    {
+      "id": 35,
+      "title": "Button Product - BTN",
       "category": "accessories",
       "description": "An example Button product.",
       "price": "99.00",
@@ -467,7 +481,7 @@
       }
     },
     {
-      "id": 35,
+      "id": 36,
       "title": "iHerb Product",
       "category": "accessories",
       "description": "An example iHerb product.",
