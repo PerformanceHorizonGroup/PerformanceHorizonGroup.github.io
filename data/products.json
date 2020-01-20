@@ -494,13 +494,13 @@
     },
     {
       "id": 37,
-      "title": "ZALORA Product",
+      "title": "ZALORA Lacoste Slides",
       "category": "accessories",
       "description": "An example ZALORA product.",
       "price": "99.00",
       "currency_symbol": "£",
       "currency": "GBP",
-      "imageURL": "https://static.wingify.com/gcp/uploads/2018/11/Zalora-Black-Black.png",
+      "imageURL": "https://dynamic.zacdn.com/z9HarUeR-s1aZABA2FAijCwLt2Y=/fit-in/762x1100/filters:quality(95):fill(ffffff)/http://static.sg.zalora.net/p/lacoste-6912-2086521-1.jpg",
       "clickUrl": "https://prf.hn/click/camref:1101lxUC/destination_mobile:zalora%3A%2F%2Fsg%2Fd%2F3A6A7SH09D1367GS/destination:https://www.zalora.sg/lacoste-mens-croco-slide-319-4-us-738cma0073082-1256802.html",
       "meta": {}
     },
