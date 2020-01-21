@@ -475,7 +475,7 @@
       "currency_symbol": "£",
       "currency": "GBP",
       "imageURL": "https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/uwtnzh3shfme8ug1c3aq",
-      "clickUrl": "https://r.bttn.io?btn_ref=org-5251b47cf89dbe53&btn_url=https://molimo.partnerize.com/product/35",
+      "clickUrl": "https://r.bttn.io/?btn_url=https%3A%2F%2Fmolimo.partnerize.com%2Fproduct%2F35&btn_ref=org-6015200d205eb040&btn_fallback_exp=interstitial",
       "meta": {
         "brand": "Button"
       }
