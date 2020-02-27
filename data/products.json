@@ -527,6 +527,18 @@
       "imageURL": "https://images.lululemon.com/is/image/lululemon/LM3BR5S_042055_1?$pdp_image_carousel$&wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=90,1&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
       "clickUrl": "https://lululemon.prf.hn/click/camref:1101l3SpG/destination:https://shop.lululemon.com/p/men-ss-tops/Metal-Vent-Tech-Short-Sleeve-Two/_/prod140003",
       "meta": {}
+    },
+    {
+      "id": 41,
+      "title": "Zalora tewst link",
+      "category": "fashion",
+      "description": "Zalora link",
+      "price": "78.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://dynamic.zacdn.com/DuXuF5yICNNRoxGoIPtEPU488UQ=/fit-in/78x112/filters:quality(95):fill(ffffff)/http://static.my.zalora.net/p/adidas-5740-7952961-1.jpg",
+      "clickUrl": "https://prf.hn/click/camref:1101lxUD/destination:https://zalora.com.my/adidas-adidas-originals-lock-up-tee-black-1692597.html",
+      "meta": {}
     }
   ]
 }
