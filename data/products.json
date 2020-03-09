@@ -530,13 +530,13 @@
     },
     {
       "id": 41,
-      "title": "Zalora tewst link",
+      "title": "Zalora Adidas T-Shirt",
       "category": "fashion",
-      "description": "Zalora link",
+      "description": "Zalora Adidas tshirt",
       "price": "78.00",
       "currency_symbol": "£",
       "currency": "GBP",
-      "imageURL": "https://dynamic.zacdn.com/DuXuF5yICNNRoxGoIPtEPU488UQ=/fit-in/78x112/filters:quality(95):fill(ffffff)/http://static.my.zalora.net/p/adidas-5740-7952961-1.jpg",
+      "imageURL": "https://dynamic.zacdn.com/tIf_L82fEx5BO6cLpEJzb1z9-aQ=/fit-in/762x1100/filters:quality(95):fill(ffffff)/http://static.my.zalora.net/p/adidas-5740-7952961-1.jpg",
       "clickUrl": "https://prf.hn/click/camref:1101lxUD/destination:https://zalora.com.my/adidas-adidas-originals-lock-up-tee-black-1692597.html",
       "meta": {}
     }
