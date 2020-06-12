@@ -337,7 +337,7 @@
     {
       "id": 24,
       "title": "Hotels.com Loyalty Promotion",
-      "category": "travel",
+      "category": "loyalty",
       "description": "Get £20 in loyalty points when you make a purchase over £500.",
       "price": "500.00",
       "currency_symbol": "£",
@@ -345,8 +345,7 @@
       "imageURL": "https://thumbnails.expedia.com/61MMTsgi3Wp7BQJOAfBKE7fZS20=/536x384/smart/filters:quality(60)/a.cdn-hotels.com/cos/heroimage/Dublin_0_469738109.jpg",
       "clickUrl": "https://prf.partnerize.tech/click/camref:111111l7i/destination:http://127.0.0.1:9000/product/24",
       "meta": {
-        "brand": "Hotels.com",
-        "points": "2000"
+        "tsource":"Loyalty"
       }
     }
   ]
