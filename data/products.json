@@ -563,6 +563,20 @@
       "imageURL": "https://withplum.com/assets/images/three/logos/plum-logo-dark.svg",
       "clickUrl": "https://prf.hn/click/camref:1100lcWDm",
       "meta": {}
+    },
+    {
+      "id": 43,
+      "title": "Delacon",
+      "category": "accessories",
+      "description": "Delacon call tracking integration",
+      "price": "10.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://partners.fullstory.com/partner_content/86/1041186/logo100x50.png?t=8d7b67ec749a645",
+      "clickUrl": "https://prf.hn/click/camref:1100lcWDm",
+      "meta": {
+        "Phone now": "0264385152"
+      }
     }
   ]
 }
