@@ -589,6 +589,30 @@
       "imageURL": "https://www.pepperjam.com/hs-fs/hubfs/Pepperjam_2018/Images/Pepperjam_logo.png?width=472&name=Pepperjam_logo.png",
       "clickUrl": "https://www.pntra.com/t/8-12467-20600-214675?url=https://molimo.partnerize.com/product/44",
       "meta": {}
+    },
+    {
+      "id": 45,
+      "title": "BEX - Standard",
+      "category": "accessories",
+      "description": "Standard BEX tracking link",
+      "price": "10.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://www.expedia.com/_dms/header/logo.svg?locale=en_US&siteid=1",
+      "clickUrl": "https://prf.hn/click/camref:1101l6A",
+      "meta": {}
+    },
+    {
+      "id": 46,
+      "title": "BEX - Custom AASA",
+      "category": "accessories",
+      "description": "Custom AASA BEX tracking link",
+      "price": "10.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://www.expedia.com/_dms/header/logo.svg?locale=en_US&siteid=1",
+      "clickUrl": "https://r2r.prf.hn/click/camref:1101l6A",
+      "meta": {}
     }
   ]
 }
