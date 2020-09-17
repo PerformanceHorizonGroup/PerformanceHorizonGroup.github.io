@@ -599,7 +599,7 @@
       "currency_symbol": "£",
       "currency": "GBP",
       "imageURL": "https://www.expedia.com/_dms/header/logo.svg?locale=en_US&siteid=1",
-      "clickUrl": "https://prf.hn/click/camref:1101l6A",
+      "clickUrl": "https://prf.hn/click/camref:1101l6A/adref:6t:1/destination:https://www.expedia.com/go/hotel/search/Destination?siteid=100782&SearchType=Place&CityId=178305",
       "meta": {}
     },
     {
@@ -611,7 +611,7 @@
       "currency_symbol": "£",
       "currency": "GBP",
       "imageURL": "https://www.expedia.com/_dms/header/logo.svg?locale=en_US&siteid=1",
-      "clickUrl": "https://r2r.prf.hn/click/camref:1101l6A",
+      "clickUrl": "https://r2r.prf.hn/click/camref:1101l6A/adref:6t:1/destination:https://www.expedia.com/go/hotel/search/Destination?siteid=100782&SearchType=Place&CityId=178305",
       "meta": {}
     }
   ]
