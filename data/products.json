@@ -594,11 +594,11 @@
       "id": 45,
       "title": "Expedia Hotels",
       "category": "travel",
-      "description": "Expedia hotels",
-      "price": "230.00",
+      "description": "The best available hotel offers and promotions.",
+      "price": "550.00",
       "currency_symbol": "£",
       "currency": "GBP",
-      "imageURL": "https://thumbnails.trvl-media.com/4eqSckBqcP9iDQzGB0RWcykN7sM=/1040x580/smart/filters:no_upscale():quality(80)/a.travel-assets.com/travel-assets-manager/8b9c5cbf-f527-49fb-b881-8d7037952a89/assurance_4_562x240-2x.jpg",
+      "imageURL": "https://thumbnails.expedia.com/61MMTsgi3Wp7BQJOAfBKE7fZS20=/536x384/smart/filters:quality(60)/a.cdn-hotels.com/cos/heroimage/Dublin_0_469738109.jpg",
       "clickUrl": "https://molimo.prf.hn/click/camref:1101l4QAa/destination:https://molimo.partnerize.com/product/45",
       "meta": {}
     }
