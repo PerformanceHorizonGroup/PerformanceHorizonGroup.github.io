@@ -592,14 +592,38 @@
     },
     {
       "id": 45,
-      "title": "Expedia Hotels",
-      "category": "travel",
-      "description": "The best available hotel offers and promotions.",
-      "price": "550.00",
+      "title": "Dublin Hotels",
+      "category": "hotels",
+      "description": "Find the best hotels in Dublin.",
+      "price": "54.00",
       "currency_symbol": "£",
       "currency": "GBP",
       "imageURL": "https://thumbnails.expedia.com/61MMTsgi3Wp7BQJOAfBKE7fZS20=/536x384/smart/filters:quality(60)/a.cdn-hotels.com/cos/heroimage/Dublin_0_469738109.jpg",
       "clickUrl": "https://molimo.prf.hn/click/camref:1101l4QAa/destination:https://molimo.partnerize.com/product/45",
+      "meta": {}
+    },
+    {
+      "id": 46,
+      "title": "London Hotels",
+      "category": "hotels",
+      "description": "Find the best hotels in London.",
+      "price": "65.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://cdn.londonandpartners.com/visit/general-london/areas/river/76709-640x360-houses-of-parliament-and-london-eye-on-thames-from-above-640.jpg",
+      "clickUrl": "https://molimo.prf.hn/click/camref:1101l4QAa/destination:https://molimo.partnerize.com/product/46",
+      "meta": {}
+    },
+    {
+      "id": 47,
+      "title": "San Francisco Hotels",
+      "category": "hotels",
+      "description": "Find the best hotels in San Francisco.",
+      "price": "139.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://www.sfaf.org/wp-content/uploads/posts/SF_bridge_1200x800.jpg",
+      "clickUrl": "https://molimo.prf.hn/click/camref:1101l4QAa/destination:https://molimo.partnerize.com/product/47",
       "meta": {}
     }
   ]
