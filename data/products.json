@@ -625,6 +625,22 @@
       "imageURL": "https://www.sfaf.org/wp-content/uploads/posts/SF_bridge_1200x800.jpg",
       "clickUrl": "https://molimo.prf.hn/click/camref:1100l7Pnr/destination:https://molimo.partnerize.com/product/47",
       "meta": {}
+    },
+    {
+      "id": 48,
+      "title": "App Debug",
+      "category": "travel",
+      "description": "S",
+      "price": "15.00",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://molimo.partnerize.com/img/products/canvas-toiletry-bag.jpg",
+      "clickUrl": "http://molimo.prf.hn/click/camref:1101l4QAa/pubref:A100669443%7C2677129011NjXn%7C0000%7CB%7C1%7Ciherb/adref:A100669443/destination:https://molimo.partnerize.com/product/21",
+      "meta": {
+        "brand": "The little market",
+        "material": "canvas, natural leather, brass",
+        "size": "11\" x 7.75\""
+      }
     }
   ]
 }
