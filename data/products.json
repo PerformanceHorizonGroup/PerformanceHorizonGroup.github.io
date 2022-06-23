@@ -653,6 +653,18 @@
       "imageURL": "https://cwa.roocdn.com/_next/static/social_media.2a6fac33.png",
       "clickUrl": "https://deliveroo.prf.hn/click/camref:1101lfhMP",
       "meta": {}
+    },
+    {
+      "id": 50,
+      "title": "Adore Beauty",
+      "category": "beauty",
+      "description": "Adore Beauty",
+      "price": "100",
+      "currency_symbol": "$",
+      "currency": "AUD",
+      "imageURL": "https://www.adorebeauty.com.au/nuxtimages/logo-2018-1.svg",
+      "clickUrl": "https://adorebeauty.prf.hn/click/camref:1101ldc22/destination:https://staging.adorebeauty.com.au",
+      "meta": {}
     }
   ]
 }
