@@ -665,6 +665,30 @@
       "imageURL": "https://www.adorebeauty.com.au/nuxtimages/logo-2018-1.svg",
       "clickUrl": "https://adorebeauty.prf.hn/click/camref:1101ldc22/destination:https://staging.adorebeauty.com.au",
       "meta": {}
+    },
+    {
+      "id": 51,
+      "title": "Link Switcher - Ascend Generic",
+      "category": "link-switcher",
+      "description": "Link Switcher - Ascend Generic",
+      "price": "100",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://www.ascendpartner.com/images/partnerize/ascend_byPartnerize-fc.svg",
+      "clickUrl": "http://gopjn.com/t/8-c123-p123-a123",
+      "meta": {}
+    },
+    {
+      "id": 52,
+      "title": "Link Switcher - Ascend Product",
+      "category": "link-switcher",
+      "description": "Link Switcher - Ascend Product",
+      "price": "100",
+      "currency_symbol": "£",
+      "currency": "GBP",
+      "imageURL": "https://www.ascendpartner.com/images/partnerize/ascend_byPartnerize-fc.svg",
+      "clickUrl": "http://gopjn.com/t/1-c123-p123-prog123",
+      "meta": {}
     }
   ]
 }
